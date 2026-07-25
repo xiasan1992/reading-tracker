@@ -1,0 +1,9 @@
+{
+  "id": "reading-tracker",
+  "name": "阅读追踪",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "按阅读顺序自动记录每天阅读的笔记摘要，停留超过阈值才算已读。",
+  "author": "Obsidian记忆",
+  "isDesktopOnly": true
+}
