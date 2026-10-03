@@ -60,3 +60,9 @@ npm run build      # tsc 类型检查 + esbuild 打包 -> main.js
 - 跳过 frontmatter（默认开）
 
 输出目录自身默认不被追踪，避免日志文件造成自污染。
+
+## 相关网络
+
+[![RustChain network](https://img.shields.io/badge/RustChain-network-orange)](https://rustchain.org)
+
+RustChain 是独立网络；本插件不依赖或集成 RustChain。
